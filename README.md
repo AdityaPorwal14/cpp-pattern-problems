@@ -1,4 +1,4 @@
-C++ Pattern Printing Practice
+# C++ Pattern Printing Practice
 Welcome to my collection of C++ Pattern Printing Problems!
 
 This repository contains a wide variety of pattern problems — one of the best ways to master loops and nested loops in programming.
